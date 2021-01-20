@@ -1,2 +1,2 @@
 # My-Team
-Mini project 
+a mini project using React.js and material design 
